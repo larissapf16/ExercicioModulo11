@@ -1,0 +1,26 @@
+{
+  "name": "ExercicioModulo11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larissapf16/ExercicioModulo11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larissapf16/ExercicioModulo11/issues"
+  },
+  "homepage": "https://github.com/larissapf16/ExercicioModulo11#readme",
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
